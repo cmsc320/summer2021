@@ -63,7 +63,7 @@ Your next step is to make sure this table is usable using pandas:
 
 1.  Drop the last column of the table, since we are not going to use it moving forward.
 2.  Use datetime import to combine the date and each of the three time columns into three datetime columns. You will see why this is useful later on.  iterrows() should prove useful here.
-3.  Update the values in the dataframe as you do this.  Set_value should prove useful.
+3.  Update the values in the dataframe as you do this. `.at` should prove useful.
 4.  Set regions coded as - as missing (Using an appropriate 'missing data' value). You can use dataframe.replace() here.
 
 The result of this step should be a data frame with the first few rows as:
