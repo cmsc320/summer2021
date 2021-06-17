@@ -3,7 +3,7 @@
 #### _CMSC320_
 
 **Posted:** June 10, 2021; 
-**Due:** June 17, 2021
+**Due:** June 21, 2021 (Changed from June 17)
 
 Please _read the entire document before starting_!
 
