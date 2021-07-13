@@ -91,7 +91,6 @@ Based on the Violin plot you made, consider the following questions.
 
 <div id="try-it-out" class="section level2">
 
-<h3>Try it out!</h3>
 
 <ol style="list-style-type: lower-alpha">
 <li><p>Find a dataset on which to try out different classification (or regression) algorithms. You can use a dataset provided by SKLearn but you may not use the Iris dataset we used in the lectures.</p></li>
